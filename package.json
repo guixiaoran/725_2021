@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "socket.io": "^4.0.1"
   },
   "main": "test.js",
   "scripts": {
